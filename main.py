@@ -1,4 +1,4 @@
-num = int(input"idade:"))
+num = int(input("idade:"))
 
 def idade(idade):
     idade = int(input())
@@ -8,3 +8,4 @@ def idade(idade):
         print("maior de idade")
 
 print (idade(num))
+print("HELLO WORLD!")
